@@ -1,7 +1,7 @@
 SimpleAR
 ========
 
-You can easily access your mobile device sensors to collect your data, solve the labeling problem more easily and do online classification. Take a look at the example code snippets in this repository.
+You can easily access your mobile device sensors programmatically to collect your data, solve the labeling problem more easily and do online classification. Take a look at the example code snippets in this repository.
 
 If you are completely new to Android development, go through this tutorial first: 
 http://www.vogella.com/articles/Android/article.html
